@@ -9,8 +9,6 @@ BEGIN:VTODO
 UID:TODO-B27A3213-6F4E-4031-B10F-A4CD8EE001BC
 DTSTAMP:20260804T224839Z
 SUMMARY:AI policy Grad Student Handbook
-DESCRIPTION:• Crosby suggested to refer to Provost's website on AI policy\n
-   [2026-05-27 Wed]
 CATEGORIES:AssocDH
 SEQUENCE:1
 PRIORITY:5
@@ -20,12 +18,6 @@ BEGIN:VTODO
 UID:TODO-3C3C5405-519E-4260-8760-D683B89D9F30
 DTSTAMP:20260804T224841Z
 SUMMARY:Exit process form [@lcg]
-DESCRIPTION:• ☐ HB start with email and share with Al\, Reika\, and Lisa G.
-   TEAMS\n  with some restricted editing so students cannot modify.\n  • Ch
- atGPT 5.1\n• Lisa mentioned that she sends out slightly different emails\n
-   depending on\, for example\, whether the student has already\n  defended
-  or not.\n• Check other Graduate Program handbooks to see what they do.\n 
-  1. UMass BME\n  2. Minnesota\n  3. UCSB
 CATEGORIES:@lcg,AssocDH
 SEQUENCE:1
 PRIORITY:5
@@ -52,14 +44,6 @@ BEGIN:VTODO
 UID:TODO-C5013DB4-58D5-4F46-9980-28059428CA0D
 DTSTAMP:20260804T224850Z
 SUMMARY:Chanu Lim\, Zoom [@mtg]
-DESCRIPTION:1. HB share Esam light scattering results\, literature on conce
- ntration\n   fluctuations near eutectic point\n   • Spittle\; XRD\n2. disc
- uss reline/water diffusion experiment and NMR analysis.\n   • analysis of 
- total water content needs to include both urea and\n     cholinium\n   • d
- o more NMR at different time points\n3. discuss manuscript draft\n   • Cha
- nu found conferences with July deadlines\n   • ☐ target journal: create to
- p 5\n   • ☑ small items: Williams guide\n   • big items: authorship\, titl
- e\, major findings\, work TBD
 CATEGORIES:@mtg,cxl,BRG
 SEQUENCE:1
 PRIORITY:5
@@ -69,8 +53,6 @@ BEGIN:VTODO
 UID:TODO-14E3168D-D60F-48A9-A0C8-D2670A9D6C7F
 DTSTAMP:20260804T224850Z
 SUMMARY:Russo Hoagland etc [@mtg]
-DESCRIPTION:1. Evan Moore\, working with Victor Breefield group\n2. Paul Ru
- sso repeatedly asked about our goals
 CATEGORIES:@mtg,BRG
 SEQUENCE:1
 PRIORITY:5
@@ -89,7 +71,6 @@ BEGIN:VTODO
 UID:TODO-BB4A0066-72CD-4EF9-90C5-498A9994D2B7
 DTSTAMP:20260804T224850Z
 SUMMARY:Ted Kremer\, UMassMed\, Zoom [@mtg]
-DESCRIPTION:• also present: Jaclyn Longtime and Christine (Chris) Bielacki
 CATEGORIES:@mtg,BRG
 SEQUENCE:1
 PRIORITY:5
@@ -107,15 +88,6 @@ BEGIN:VTODO
 UID:TODO-7B7016EF-6664-4CF5-98D6-54E85135F424
 DTSTAMP:20260804T224850Z
 SUMMARY:Tapiwa Gono [@mtg @tgp]
-DESCRIPTION:1. souvenir\n   • coqui magnet\n2. phenol-sulfuric acid colorim
- etric assay update\n   • lower and upper limit of detection according to Y
- ue paper\n3. cloning and mfp update\n   • "everything worked"\n   • suspec
- t is now PNK\n4. lab\n   1. Top10 cells: recevied at -20C\, TPG will do a 
- test with pET24a\n      plasmid to check viability/competence\n   2. Tubin
- g McMaster-Carr thanks\n   3. -20C freezer defrost: date?  *Freight elevat
- or currently out of\n       service\, contact Glenda?*\n5. office\n   1. T
- PG defrosted and cleaned fridge.  Wants to clean carpet\, so\n      *bring
-  steam cleaner from home*.
 CATEGORIES:@mtg,@tgp,BRG
 SEQUENCE:1
 PRIORITY:5
@@ -193,9 +165,6 @@ BEGIN:VTODO
 UID:TODO-283BECA6-4649-4E70-8912-D0189AC87094
 DTSTAMP:20260804T224853Z
 SUMMARY:Post listing on PROPEL
-DESCRIPTION:• see emails from Deb Phillis on [2026-01-23 Fri] and [2026-01-
- 29\n  Thu].\n• lead time is several months\, try Round 5 (approx. April) a
- nd Round 1\n  (approx. August) for Fall 2027.
 CATEGORIES:BRG
 SEQUENCE:1
 PRIORITY:5
@@ -205,12 +174,6 @@ BEGIN:VTODO
 UID:TODO-BA5D77D0-7FBE-49DF-8AAD-4C8050BD8727
 DTSTAMP:20260804T224904Z
 SUMMARY:602 planning [@mtg]
-DESCRIPTION:1. Dave has to find TA for mechanical/rheology\n2. ☐ HB has to 
- check about instruments\n   1. SAXS may move due to cleanroom expansion\; 
- connect with Sid\n      and/or Glenda/Shota\n   2. AFM may move due to cle
- anroom expansion\; connect with Hayden\n      and/or Glenda/Alex Ribbe\n  
-  3. DSC in McCarthy corner lab possibly operational thanks to\n      Miche
- lle Gross/Katsumata.
 CATEGORIES:@mtg,602
 SEQUENCE:1
 PRIORITY:5
@@ -404,8 +367,6 @@ BEGIN:VTODO
 UID:TODO-3FE3118D-D44D-4430-B8DD-874A9FF20989
 DTSTAMP:20260804T224919Z
 SUMMARY:Limpiar baño ↺ [@vida]
-DESCRIPTION:• Starting [2024-11-17 Sun] include Lucas and Ceci on every 2 w
- k cycle
 CATEGORIES:@vida,Chores
 SEQUENCE:1
 PRIORITY:5
@@ -424,8 +385,6 @@ BEGIN:VTODO
 UID:TODO-C3A5712D-128C-4AEC-87D4-06655A121FD2
 DTSTAMP:20260804T224919Z
 SUMMARY:Limpiar baño ↺ [@vida @luki]
-DESCRIPTION:• Starting [2024-11-17 Sun] include Lucas and Ceci on every 2 w
- k cycle
 CATEGORIES:@vida,@luki,Chores
 SEQUENCE:1
 PRIORITY:5
@@ -444,8 +403,6 @@ BEGIN:VTODO
 UID:TODO-DAEFE13F-E90E-457A-A656-D3C2F9EEF2F9
 DTSTAMP:20260804T224919Z
 SUMMARY:Limpiar baño ↺ [@vida @ceci]
-DESCRIPTION:• Starting [2024-11-17 Sun] include Lucas and Ceci on every 2 w
- k cycle
 CATEGORIES:@vida,@ceci,Chores
 SEQUENCE:1
 PRIORITY:5
@@ -500,7 +457,6 @@ BEGIN:VTODO
 UID:TODO-2C5DB959-BC4B-4B06-9826-7CA1CB0C781A
 DTSTAMP:20260804T224919Z
 SUMMARY:Lavar cortinas ↺ [@vida @chores]
-DESCRIPTION:• Remember to open valves for washing machine
 CATEGORIES:@chores,Chores
 SEQUENCE:1
 PRIORITY:5
@@ -519,9 +475,6 @@ BEGIN:VTODO
 UID:TODO-75B3C64C-2186-49D9-A0A7-BCDD83E3AD56
 DTSTAMP:20260804T224919Z
 SUMMARY:Limpiar ventanas ↺ [2/5] [@vida @chores]
-DESCRIPTION:1. ☑ upstairs bedroom\, 2\n2. ☑ upstairs bathroom\, 1\n3. ☐ dow
- nstairs living room\, 2\n4. ☐ downstairs bathroom\, 1\n5. ☐ downstairs kit
- chen\, 2
 CATEGORIES:@chores,noexport,Chores
 SEQUENCE:1
 PRIORITY:5
@@ -531,7 +484,6 @@ BEGIN:VTODO
 UID:TODO-C9D3BF17-9A5F-47A6-BB98-2D2A822FB096
 DTSTAMP:20260804T224919Z
 SUMMARY:Check openings ↺ [@vida]
-DESCRIPTION:file [file] (<file:Openings.org>)
 CATEGORIES:@vida,Chores
 SEQUENCE:1
 PRIORITY:5
@@ -577,7 +529,6 @@ BEGIN:VTODO
 UID:TODO-83DBA3B0-1DA0-4531-BB1B-5FFB9EE58CCF
 DTSTAMP:20260804T224919Z
 SUMMARY:Check credit reports [@vida]
-DESCRIPTION:file: [file] (<file:Dinero.org>)
 CATEGORIES:Chores
 SEQUENCE:1
 PRIORITY:5
@@ -614,7 +565,6 @@ BEGIN:VTODO
 UID:TODO-6E0870DD-7591-4A06-A159-D3184A1E61A2
 DTSTAMP:20260804T224919Z
 SUMMARY:Hacer cita examen fisico ↺ [@vida]
-DESCRIPTION:• use Mass General Brigham Patient Gateway
 CATEGORIES:noexport,Chores
 SEQUENCE:1
 PRIORITY:5
@@ -669,7 +619,6 @@ BEGIN:VTODO
 UID:TODO-3EC9B920-E2FD-4073-A5B2-15B3CC08D334
 DTSTAMP:20260804T224920Z
 SUMMARY:Archive logs/years in Orgmode ↺ [@vida]
-DESCRIPTION:• *use cutoff of about 100k (arbitrary)*
 CATEGORIES:@vida,Chores
 SEQUENCE:1
 PRIORITY:5
@@ -796,8 +745,6 @@ BEGIN:VTODO
 UID:TODO-E6E0A02B-9EE8-4991-A444-2F87149CD40C
 DTSTAMP:20260804T224920Z
 SUMMARY:Limpiar polvo pieza ↺ [@vida @chores]
-DESCRIPTION:• Baseboards a bit of everywhere\n• Upstairs bath\n• Living roo
- m: coffee table
 CATEGORIES:noexport,@chores,Chores
 SEQUENCE:1
 PRIORITY:5
@@ -807,10 +754,6 @@ BEGIN:VTODO
 UID:TODO-D790E4D5-8D2E-454B-989F-87B845B424D9
 DTSTAMP:20260804T224920Z
 SUMMARY:Limpiar reja de baño  ↺ [@vida @chores]
-DESCRIPTION:• Video links: ([youtube]\n  (<https://www.youtube.com/watch?v=
- 1siTldg2Xns>)) ([youtube]\n  (<https://www.youtube.com/watch?v=2zTkhPyRE-M
- >))\n• Claudia replaced motor in 2022/23 so no longer need to replenish oi
- l
 CATEGORIES:@vida,@chores,Chores
 SEQUENCE:1
 PRIORITY:5
@@ -865,13 +808,6 @@ BEGIN:VTODO
 UID:TODO-3EEA8259-E0C4-4471-A021-6840B8A36147
 DTSTAMP:20260804T224920Z
 SUMMARY:Check for summer camps ↺ [@vida @kids]
-DESCRIPTION:1. ☐ May Institute (W. Springfield)\n2. ☑ UMass Soccer\n3. ☑ Pa
- thfinder Tech\n4. ☑ *MacDuffie*\n   • ages: entering grades 1-8\n   • Ceci
- : culinary arts (wk of Jul 4\, 9-3pm)\, $280\n   • Ceci: land sports (mayb
- e)\n5. ☑ Central Rock Gym\n   • ages: 6-13\n   • limited 2-3 days/wk and 2
- -3 hrs/session\n6. ☑ Belchertown Rec Center\n   • limited time options\n7.
-  ☒ *Amherst LSSE*\n   1. Ceci: tennis camp (wk of June 26\, 9-12 Amherst M
- iddle School)\,\n      $200\n8. ☐ UMass summer camps?
 CATEGORIES:@kids,Chores
 SEQUENCE:1
 PRIORITY:5
@@ -908,7 +844,6 @@ BEGIN:VTODO
 UID:TODO-B9DFA5A6-AD80-4E10-994D-4871DB72529D
 DTSTAMP:20260804T224920Z
 SUMMARY:Prepare Epic Fail award [@vida]
-DESCRIPTION:• 2025 nominees:\n  1. Ceci candle incident
 CATEGORIES:Chores
 SEQUENCE:1
 PRIORITY:5
@@ -927,8 +862,6 @@ BEGIN:VTODO
 UID:TODO-08A6872F-D2AC-4BD9-94B6-101249D2539E
 DTSTAMP:20260804T224920Z
 SUMMARY:Poner aircons [@vida]
-DESCRIPTION:• replace mesh and tape on exterior\n• level with slight inclin
- e for drainage
 CATEGORIES:Chores
 SEQUENCE:1
 PRIORITY:5
@@ -947,8 +880,6 @@ BEGIN:VTODO
 UID:TODO-5794595A-645F-486E-9918-36465F91C9E7
 DTSTAMP:20260804T224920Z
 SUMMARY:Quitar aircons [0/3] [@vida]
-DESCRIPTION:• ☐ drain before removing from window\n• ☐ store with dessicant
-  bags\n• ☐ check moisture after 1 week
 CATEGORIES:Chores
 SEQUENCE:1
 PRIORITY:5
@@ -967,7 +898,6 @@ BEGIN:VTODO
 UID:TODO-A5706CAB-6B42-4D68-9AC5-8DE3B9A08CC5
 DTSTAMP:20260804T224920Z
 SUMMARY:Poner llantas de nieve ↺ [@vida]
-DESCRIPTION:• Goodyear Winter Command [2025-12-09 Tue]
 CATEGORIES:@vida,Chores
 SEQUENCE:1
 PRIORITY:5
@@ -986,7 +916,6 @@ BEGIN:VTODO
 UID:TODO-D1D79978-3C4D-44E2-A123-A9E7EBEBF247
 DTSTAMP:20260804T224920Z
 SUMMARY:Winter break laundry [@vida]
-DESCRIPTION:1. ☑ Shirts: oxiclean\n2. ☑ Baggu bag: oxiclean\n3. ☑ Pants
 CATEGORIES:Chores
 SEQUENCE:1
 PRIORITY:5
@@ -1032,8 +961,6 @@ BEGIN:VTODO
 UID:TODO-693D6839-0C65-4239-8EC9-72B74B7AEABA
 DTSTAMP:20260804T224920Z
 SUMMARY:Renew driver's license ↺ [@vida]
-DESCRIPTION:DEADLINE: <2027-05-25 Tue .+5y -14d>\n:LAST_REPEAT: [2022-05-25
-  Wed 11:11]
 CATEGORIES:Chores
 SEQUENCE:1
 PRIORITY:5
@@ -1088,9 +1015,6 @@ BEGIN:VTODO
 UID:TODO-9B981ACE-D559-49FF-B4C3-C239ACB7B0B5
 DTSTAMP:20260804T224920Z
 SUMMARY:ABA [@rafa]
-DESCRIPTION:• listed in from MCPAP 260317\n• second list from Nancy Farnswo
- rth 260212\n• need to get evaluation arranged: talk with Dewey (PCP) about
- \n  possibly MCPAP for: ADOS\, CARS2\, or the ADI-R.
 CATEGORIES:@rafa,Vida
 SEQUENCE:1
 PRIORITY:5
@@ -1100,11 +1024,6 @@ BEGIN:VTODO
 UID:TODO-123BFAF7-7219-4ABA-9598-11D2EB17B540
 DTSTAMP:20260804T224920Z
 SUMMARY:MultiCulture Community Services (Holyoke) [@rafa]
-DESCRIPTION:• webform: 20 pages [2026-08-03 Mon].\n• Safari browser issues\
- , resolved using Firefox.\n• "Thank you for contacting the ABA Intake Pack
- et. Your confirmation\n  number is 203-4483\nWe will get in touch with you
-  shortly. In the meantime\, if you have\nany questions please do not hesit
- ate to contact our office at (413)\n534-3299."
 CATEGORIES:Vida
 SEQUENCE:1
 PRIORITY:5
@@ -1114,12 +1033,6 @@ BEGIN:VTODO
 UID:TODO-23993F83-7F98-41F8-846C-F29B012C4D23
 DTSTAMP:20260804T224920Z
 SUMMARY:Applebury (Hadley) [@rafa]
-DESCRIPTION:• filled out "Inquiry Form" [2026-05-19 Tue] Message: I am inqu
- iring\n  about at-home ABA services for a 12-year old boy with autism (Lev
- el\n  2) in Belchertown.\n• Alysha left voicemail [2026-06-10 Wed]\n• I ca
- lled [2026-06-11 Thu]\; Alicia will text info they need.\n  Applebury does
-  provide at-home service or split\, that is TBD by\n  BCBA.\n• Dropped off
-  documents [2026-06-16 Tue]
 CATEGORIES:Vida
 SEQUENCE:1
 PRIORITY:5
@@ -1129,18 +1042,6 @@ BEGIN:VTODO
 UID:TODO-751C63E6-1EA9-4C81-A261-35346D7359C0
 DTSTAMP:20260804T224920Z
 SUMMARY:ABLE (Holyoke) [@rafa]
-DESCRIPTION:1. filled out "Contact Us Form" [2026-05-19 Tue] Message: I am\
- n   inquiring about at-home ABA services for a 12-year old boy with\n   au
- tism (Level 2) in Belchertown.\n2. Mandy called me [2026-05-19 Tue] to che
- ck insurance (Wellpoint)\,\n   she will check\n   • authorization through 
- Carealon but payments billed through\n     Unicare\n   • *call and check c
- overage and copays are billed per visit\, so need\n      be sure.*\n3. *Wa
- iting list is long*.  Fill out paperwork and return.  Email:\n    office@a
- ble\n   1. ☑ Intake form.  Non-fillable PDF: print it out\, write\, and sc
- an\n      completed.\n   2. ☑ Copy of insurance cards\n   3. ☑ Proof of Di
- agnosis (POD)\n   4. ☑ Referral for ABA\n   5. ☑ Copy of most recent physi
- cal\n   6. ☑ IEP\n4. Dropped off documents (Claudia) [2026-06-10 Wed]\n5. 
- Added to waitlist [2026-06-23 Tue]
 CATEGORIES:Vida
 SEQUENCE:1
 PRIORITY:5
@@ -1168,8 +1069,6 @@ BEGIN:VTODO
 UID:TODO-05314D14-2398-42B0-93E1-1584E2FBE4B4
 DTSTAMP:20260804T224920Z
 SUMMARY:Arrange time with coordinator [@rafa]
-DESCRIPTION:• emailed from gerlombians email account [2026-08-04 Tue]\n• Br
- itney Korman\n• tel 413-579-2613\n• email britney.korman@mass.gov
 CATEGORIES:Vida
 SEQUENCE:1
 PRIORITY:5
@@ -1196,8 +1095,6 @@ BEGIN:VTODO
 UID:TODO-7A8C1B62-20B7-43DB-9F12-6555F1E49E1D
 DTSTAMP:20260804T224924Z
 SUMMARY:Increase buspirone dosage [@rafa]
-DESCRIPTION:<2026-08-07 Fri>\n• *recommendation of K. Oberwager\, MCPAP*\n•
-  increase to 2 tablets twice per day
 CATEGORIES:@rafa,Vida
 SEQUENCE:1
 PRIORITY:5
@@ -1442,8 +1339,6 @@ BEGIN:VTODO
 UID:TODO-23D040D3-D130-4760-8610-DD37F90D1410
 DTSTAMP:20260804T224925Z
 SUMMARY:Update CV ↺
-DESCRIPTION:file: [file] (<file:Bermudez_CV.org>) SCHEDULED: <2025-12-30 Tu
- e .+4m>\n:LAST_REPEAT: [2025-08-30 Sat 13:09]
 CATEGORIES:Work
 SEQUENCE:1
 PRIORITY:5
@@ -1471,10 +1366,6 @@ BEGIN:VTODO
 UID:TODO-E68D0B73-E855-4848-BB7F-34B0C4B6C304
 DTSTAMP:20260804T224925Z
 SUMMARY:Prepare slides for first-year students ↺
-DESCRIPTION:SCHEDULED: <2026-08-15 Sat 10:00 +6m>\n:LAST_REPEAT: [2025-09-1
- 9 Fri 17:05]\n:LAST_REPEAT: [2025-03-08 Sat 14:14]\n• have PSE and CHE fro
- m last year (2024)\, CHE was second and therefore\n  a bit more polished. 
-  Could use that as a template\, or perhaps just\n  go without slides???
 CATEGORIES:Work
 SEQUENCE:1
 PRIORITY:5
@@ -1484,7 +1375,6 @@ BEGIN:VTODO
 UID:TODO-A744B27D-763F-410A-9667-4B696BDDB430
 DTSTAMP:20260804T224925Z
 SUMMARY:Update PSE website ↺
-DESCRIPTION:([file] (<file:Lista_de_lynx.org>))\n• 1. Research\n• 2. Group
 CATEGORIES:Work
 SEQUENCE:1
 PRIORITY:5
@@ -1558,10 +1448,6 @@ UID:TODO-3F5F27C8-49D4-4321-A3B4-802D95F79741
 DTSTAMP:20260804T224926Z
 SUMMARY:Gas mixing setup ([file] (<file:GasMixingSetup.org>)) [@goliath @mt
  g]
-DESCRIPTION:• Claude helped with list.\n• Start ordering from flowmeter and
-  work to "gas source" side. Then\n  work the other way.\n• Most from McMas
- ter-Carr\, flowmeters from Dwyer-Omega\n• Start connecting\, work from sou
- rce side\n• Need: stepladder and long zip ties (more than 12 in)
 CATEGORIES:@goliath,@mtg,Work
 SEQUENCE:1
 PRIORITY:5
